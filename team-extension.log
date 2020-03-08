@@ -1,0 +1,23 @@
+2020-03-08T07:57:26.272Z - info:   [11116] *** FOLDER: c:\Tom\books\gitRep_Tom\microservice ***
+2020-03-08T07:57:26.273Z - info:   [11116] AzureReposVSCode/1.161.0 (VSCode 1.42.1; Windows_NT 10.0.17763; Node 12.4.0)
+2020-03-08T07:57:26.273Z - debug:  [11116] Looking for an External Context at c:\Tom\books\gitRep_Tom\microservice
+2020-03-08T07:57:26.273Z - debug:  [11116] No External Context at c:\Tom\books\gitRep_Tom\microservice
+2020-03-08T07:57:26.286Z - debug:  [11116] Looking for TFVC repository at c:\Tom\books\gitRep_Tom\microservice
+2020-03-08T07:57:26.286Z - debug:  [11116] TFVC Creating Tfvc object with localPath='undefined'
+2020-03-08T07:57:26.287Z - debug:  [11116] Using TFS proxy: http://a036596:chentao1@httppxsait.srv.volvo.com:8080/
+2020-03-08T07:57:26.287Z - debug:  [11116] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2020-03-08T07:57:26.288Z - debug:  [11116] TFVC Repository created with repositoryRootFolder='c:\Tom\books\gitRep_Tom\microservice'
+2020-03-08T07:57:26.289Z - debug:  [11116] TFVC Repository.CheckVersion
+2020-03-08T07:57:26.289Z - debug:  [11116] TFVC: tf add -noprompt -?
+2020-03-08T07:57:26.328Z - debug:  [11116] TFVC: spawned new process (duration: 38ms)
+2020-03-08T07:57:26.341Z - debug:  [11116] TFVC: spawned new process (duration: 12ms)
+2020-03-08T07:57:28.154Z - debug:  [11116] TFVC: add exit code: 0 (duration: 1865ms)
+2020-03-08T07:57:28.155Z - debug:  [11116] TFVC Minimum required version: 14.102.0
+2020-03-08T07:57:28.155Z - debug:  [11116] TFVC (TF.exe, TF.cmd) version: 15.129.28306.1
+2020-03-08T07:57:28.155Z - debug:  [11116] TFVC Repository.FindWorkspace with localPath='c:\Tom\books\gitRep_Tom\microservice'
+2020-03-08T07:57:28.156Z - debug:  [11116] TFVC: tf workfold -noprompt c:\Tom\books\gitRep_Tom\microservice
+2020-03-08T07:57:28.168Z - debug:  [11116] TFVC: spawned new process (duration: 11ms)
+2020-03-08T07:57:29.981Z - debug:  [11116] TFVC: workfold exit code: 100 (duration: 1825ms)
+2020-03-08T07:57:29.982Z - debug:  [11116] TFVC errors (via stderr): Unable to determine the source control server.
+
+2020-03-08T07:57:29.982Z - error:  [11116] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
